@@ -1,6 +1,6 @@
 # Express + TypeScript + Swagger API
 
-A minimal, production-ready **Express.js API Documentation starter** built with **TypeScript**, **Swagger (OpenAPI 3.0)**, **ESLint**, and **Prettier**.
+A minimal **Express.js API Documentation starter** built with **TypeScript**, **Swagger (OpenAPI 3.0)**, **ESLint**, and **Prettier**.
 
 This project demonstrates how to:
 
